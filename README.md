@@ -1,6 +1,6 @@
 # HRMS
 <h2>Human Resource Management System<h2/>
-### Dependencies
+#### Dependencies
 - Spring Boot Dev Tools
 - Spring Data Jpa
 - Spring Web
