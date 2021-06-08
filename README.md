@@ -1,5 +1,5 @@
 # HRMS
-#### <h3>Human Resource Management System<h3/>
+#### <h2>Human Resource Management System<h2/>
 
 #### Dependencies
 - Spring Boot Dev Tools
